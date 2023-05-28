@@ -8,7 +8,7 @@ Se desarrollará un programa que permita guardar información encriptada y firma
 ## Equipo
 | Matricula | Alumno |
 | --- | --- |
-| 1827227 | K3vin Yair Peña Salzar |
+| 1827227 | Kevin Yair Peña Salzar |
 
 ## Instalación
 Desde la carpte src que esta en repositorio.
